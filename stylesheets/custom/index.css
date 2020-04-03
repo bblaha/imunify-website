@@ -1,0 +1,17 @@
+body{
+    background-image:url("http://192.168.0.5/elements/images/uploads/websitebackground.png");
+    background-size:cover;
+    background-attachment:fixed;
+}
+h1{
+    color:white;
+}
+.titillium{
+    font-family: 'Titillium Web', sans-serif;
+}
+.hide{
+    display:none;
+} 
+#section_intro_1{
+    min-height:500px;
+} 
