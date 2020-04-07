@@ -1,9 +1,4 @@
-body{
-    background-image:url("http://192.168.0.5/elements/images/uploads/websitebackground.png");
-    background-size:cover;
-    background-attachment:fixed;
-}
-h1{
+h3{
     color:white;
 }
 .titillium{
@@ -15,3 +10,8 @@ h1{
 #section_intro_1{
     min-height:500px;
 } 
+@media (max-width: 1200px) {
+    #right-hero{
+        opacity:50%;
+    }
+}
