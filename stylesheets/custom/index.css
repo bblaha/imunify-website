@@ -1,9 +1,4 @@
-body{
-    background-image:url("http://192.168.0.5/elements/images/uploads/websitebackground.png");
-    background-size:cover;
-    background-attachment:fixed;
-}
-h1{
+h3{
     color:white;
 }
 .titillium{
